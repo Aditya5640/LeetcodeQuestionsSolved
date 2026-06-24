@@ -9,3 +9,5 @@ If the current character already exists in the window, a duplicate is found. In 
 Once the duplicate is removed, we add the current character to the window and continue expanding the window.
 
 During each step, we keep track of the maximum window length, which represents the longest substring without repeating characters.
+Time Complexity: O(n)
+Space Complexity: O(n)

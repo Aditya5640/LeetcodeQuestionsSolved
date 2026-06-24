@@ -18,6 +18,7 @@ For odd-length numbers, ignore the middle digit:
 
 x == reversedHalf / 10
 If either comparison is true, the number is a palindrome.
+
 Time Complexity
 O(log n)
 

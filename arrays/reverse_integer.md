@@ -12,3 +12,5 @@ while x is not 0
     reversed_x = reversed_x * 10 + digit
 
     x = x / 10
+Time Complexity: O(log n)
+Space Complexity: O(1)

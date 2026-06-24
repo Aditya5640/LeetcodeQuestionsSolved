@@ -6,3 +6,5 @@ while i<length of s && isdigit
    check for positive overflow return INT_MAX
    build the number num = num * 10 +digit;
 return sign*num;
+Time Complexity: O(n)
+Space Complexity: O(1)
